@@ -1,0 +1,49 @@
+.button-green{
+    background-color: #90C496;
+    font-family:Arial, sans-serif;
+    color: white;
+}
+
+img{
+    inline-size: -webkit-fill-available;
+}
+
+.card-padding{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.product-card{
+    width: 23rem; 
+    background-color:#DCC7AA;
+    font-family:Arial, sans-serif;
+    color: #A68A64
+}
+
+.primary-block{
+    background-color :#F5F5DC; 
+    font-family:Arial, sans-serif;
+    color: #A68A64;
+}
+
+.secondary-block{
+    background-color :#DCC7AA; 
+    font-family:Arial, sans-serif;
+    color: #A68A64;
+}
+
+.foot-block{
+    background-color :#90C496; 
+    font-family:Arial, sans-serif;
+    color: white;
+}
+
+.rounded-edge{
+    border-radius: 5%;
+}
+.social-grid{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10;
+    padding-bottom: 10;
+}
