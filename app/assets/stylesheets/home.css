@@ -1,9 +1,3 @@
-.button-green{
-    background-color: #90C496;
-    font-family:Arial, sans-serif;
-    color: white;
-}
-
 img{
     inline-size: -webkit-fill-available;
 }
@@ -15,27 +9,26 @@ img{
 
 .product-card{
     width: 23rem; 
-    background-color:#DCC7AA;
+    background-color:#7B002E;
     font-family:Arial, sans-serif;
-    color: #A68A64
+    color: #d9a79c;
+}
+
+.tn-simple{
+    background-color:#7B002E;
+    border: none;
 }
 
 .primary-block{
-    background-color :#F5F5DC; 
+    background-color :#d9a79c; 
     font-family:Arial, sans-serif;
-    color: #A68A64;
+    color: #7B002E;
 }
 
 .secondary-block{
     background-color : #7B002E; 
     font-family:Arial, sans-serif;
-    color: #f0c9e5;
-}
-
-.foot-block{
-    background-color :#90C496; 
-    font-family:Arial, sans-serif;
-    color: white;
+    color: #d9a79c;
 }
 
 .rounded-edge{
@@ -46,4 +39,13 @@ img{
     justify-content: space-around;
     padding-top: 10;
     padding-bottom: 10;
+}
+.redondear{
+    border-radius: 100%;
+    block-size:4rem;
+}
+
+.fuente{
+  color: #d9a79c;
+  font-family:Arial, serif;
 }
